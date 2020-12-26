@@ -2,7 +2,7 @@
 
 > ### How to use?
 >  Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) <br>
->  Install [Wolfram](https://github.com/AnonHexo/Krunker/raw/master/js/wolfram.user.js) <br>
+>  Install [Wolfram](https://github.com/AnonHexo/Wolfram-Krunker/raw/main/wolfram.user.js) <br>
 >  Enjoy the script! (*please don't cheat on public matches*) <br>
 ---
 
