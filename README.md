@@ -1,5 +1,4 @@
-# Wolfram Krunker v0.1
-> ## A nice Krunker cheat made by me! <br>
+> ## Wolfram Krunker v0.1, a nice Krunker cheat made by me! <br>
 
 > ### How to use?
 >  Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) <br>
